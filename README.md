@@ -1,2 +1,2 @@
 # Pemrosesan-Citra-Digital
-TgasMatakuliahUGM
+TugasMatakuliahUGM
